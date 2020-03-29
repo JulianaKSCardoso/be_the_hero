@@ -1,0 +1,27 @@
+{
+    "name": "be_the_hero",
+    "version": "1.0.0",
+    "description": "Projeto desenvolvido durante a Semana Omnistack 11.0",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon src/index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/JulianaKSCardoso/be_the_hero.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/JulianaKSCardoso/be_the_hero/issues"
+    },
+    "homepage": "https://github.com/JulianaKSCardoso/be_the_hero#readme",
+    "dependencies": {
+        "cors": "^2.8.5",
+        "express": "^4.17.1",
+        "knex": "^0.20.13",
+        "nodemon": "^2.0.2",
+        "sqlite3": "^4.1.1"
+    }
+}
